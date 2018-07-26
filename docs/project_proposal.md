@@ -20,7 +20,7 @@ A secondary objective is to model indexing of data as a dimensionality reduction
 
 #### Timetable
 | week due | Task |
-|:----------|:------|
+| :---------- | :------ |
 | week 3 |  Deep dive into B-tree implementations |
 | *** | _Design and Implement machine learning algorithms to learn indexs_|
 | week 6  |  with neural nets |
