@@ -3,12 +3,12 @@ There has recently been a lot of excitement about a new proposal https://arxiv.o
 
 
 ###  Outline of a research proposal
-Primary object is to reproduce results from *Case for learned index* paper
+Primary objective is to reproduce results from *Case for learned index* paper
 A secondary objective is to model indexing of data as a dimensionality reduction problem.
 
 
 #### Methodology
-   A relatively modern database such as Apache derby will be choosen as a candidate whose traditional indexing algorithms will be replaced with machine learning algorithms. The reason for choosing a relatively mordern database is that it will carry less legacy code which will help avoiding distractions and cutting to the chase. Various machine learning algorithms mostly neural networks but also some dimensionaity reduction techniques will be used to model the indexes.
+   A relatively modern database such as Apache derby will be choosen as a candidate whose traditional indexing algorithms will be replaced with machine learning algorithms. The reason for choosing a relatively mordern database is that it will carry less legacy code which will help avoiding distractions while cutting to the chase. Various machine learning algorithms mostly neural networks but also some dimensionaity reduction techniques will be used to model the indexes.
  
    This project will require access to relevant literature , mostly in reference to the **Case for learned index** paper. Google scholar is a great place to look for literature and will be utilised. There could be a need to use specialised processors like GPUs which are great for repetative tasks like matrix multiplications essential for training neural nets. Open source software like a database, B-tree implementations, Neural net framework like pytorch or tensorflow will potentially be used. Programming language like C, Java, Python or Go may be used.
    
