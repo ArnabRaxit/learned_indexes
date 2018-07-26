@@ -19,6 +19,7 @@ A secondary objective is to model indexing of data as a dimensionality reduction
 
 
 #### Timetable
+
 | week due | Task |
 | :---------- | :------ |
 | week 3 |  Deep dive into B-tree implementations |
