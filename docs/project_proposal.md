@@ -4,7 +4,7 @@ There has recently been a lot of excitement about a new proposal https://arxiv.o
 
 ###  Outline of a research proposal
 Primary objective is to reproduce results from *Case for learned index* paper
-A secondary objective is to model indexing of data as a dimensionality reduction problem.
+A secondary objective is to model indexing of data as a dimensionality reduction problem. Each data point represents a point in a high dimensional space. Indexing is essentially mapping that data point into a low dimensional space e.g a 3-D space could be: <node, disk, sector>
 
 
 #### Methodology
@@ -19,6 +19,7 @@ A secondary objective is to model indexing of data as a dimensionality reduction
 
 
 #### Timetable
+A tentative timeline for the project to be carried out over 2 semesters is below:
 
 | week due | Task |
 | :---------- | :------ |
